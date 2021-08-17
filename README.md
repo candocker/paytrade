@@ -1,2 +1,2 @@
 # paytrade
-The paytrade module
+The module paytrade wiki
